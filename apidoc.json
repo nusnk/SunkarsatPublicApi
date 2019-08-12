@@ -1,0 +1,8 @@
+{
+    "name": "Sunkarsat API documentation",
+    "version": "1.0.0",
+    "description": "API for Sunkarsat",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
